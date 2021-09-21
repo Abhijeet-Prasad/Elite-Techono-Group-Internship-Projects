@@ -1,10 +1,10 @@
-#Elite-Techono-Group-Internship-Projects
+# Elite-Techono-Group-Internship-Projects
 
-#About Intership
+# About Intership
 The Internship opportunity is provided by Elite Techno Groups under the initiative of Skill India Program. The duration of the internship was 1 month from August 2021 to September 2021. 
 
 # Skills Learned
-During the internship program the skill learned - 
+During the internship program some of the skills I gained are - 
 - Fundamentals Python Programming : Data types, Loops, conditional statements, Data structures(List,Tuples,Sets,Dictionaries), file handling, 
 - Working on Jupyter Notebook on Google Colab.
 - Working with Python libraries like Pandas, Numpy, Matplotlib etc.
@@ -12,7 +12,7 @@ During the internship program the skill learned -
 - Basic Knowledge on Machine learning and  Artificial Neural network.
 - Learn how to use Github and Kaggel Platforms.
  
-#About Projects
+# About Projects
 The projects were given to me by our mentor Ashish Jangra sir  as assignment work to check my learning and grade my performance during the internship.
 - Project 1 : Inventory Management System Using JSON.
 - Project 2 : Olympics Data Analysis.
