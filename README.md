@@ -1,9 +1,19 @@
-# Elite-Techono-Group-Internship-Projects
+#Elite-Techono-Group-Internship-Projects
 
-# About Intership and Projects
-The Internship opportunity is provided by Elite Techno Groups under the initiative of Skill India Program. The duration of the internship was 1 month from August 2021 to September 2021. During the internship program we  the taught many new skill starting with fundamentals of python programming, file handling in python, working with json files, working on jupyter notebook offline as well as  on Google Colab, working with different libraries such as Pandas, Numpy, Matplotlib etc., basic data analysis and data visualization in python, Basic Knowledge on Machine learning and  Artificial Neural network. Apart from the programming skill we were also taught how to use github and kagel platforms.The learning experience was really great and all this was because of our mentor Ashish Jangra Sir.
+#About Intership
+The Internship opportunity is provided by Elite Techno Groups under the initiative of Skill India Program. The duration of the internship was 1 month from August 2021 to September 2021. 
 
-About the projects, the projects were given to me by our mentor Ashish Jangra sir  as assignment work to check my learning and grade my performance during the internship.
+# Skills Learned
+During the internship program the skill learned - 
+- Fundamentals Python Programming : Data types, Loops, conditional statements, Data structures(List,Tuples,Sets,Dictionaries), file handling, 
+- Working on Jupyter Notebook on Google Colab.
+- Working with Python libraries like Pandas, Numpy, Matplotlib etc.
+- Basic data analysis and data visualization on python.
+- Basic Knowledge on Machine learning and  Artificial Neural network.
+- Learn how to use Github and Kaggel Platforms.
+ 
+#About Projects
+The projects were given to me by our mentor Ashish Jangra sir  as assignment work to check my learning and grade my performance during the internship.
 - Project 1 : Inventory Management System Using JSON.
 - Project 2 : Olympics Data Analysis.
 
