@@ -6,6 +6,7 @@ The Internship opportunity is provided by Elite Techno Groups under the initiati
 About the projects, the projects were given to me by our mentor Ashish Jangra sir  as assignment work to check my learning and grade my performance during the internship.
 - Project 1 : Inventory Management System Using JSON.
 - Project 2 : Olympics Data Analysis.
+
 More details on the project is given in the readme files of the respective projects.
 
 # About Me
